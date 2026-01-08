@@ -1,0 +1,74 @@
+* {
+    box-sizing : border-box;
+    
+}
+
+body {
+    display : flex;
+    flex-direction: column;
+    min-height : 500px;
+    justify-content: center;
+    align-items : center;
+    background-color: #FFFFF4;
+}
+
+#title {
+    font-size : 3rem;
+}
+
+#quote {
+    font-size : 2rem;
+    margin : 20px;
+}
+
+#author {
+    font-size : 1.2rem;
+    text-align: right;
+}
+
+#loadMessage {
+    font-size : 1.5rem;
+    display: none;
+}
+
+#buttonDiv{
+    width : 190px;
+    display : flex;
+    justify-content: space-between;
+}
+
+button {
+    background-color: #22741C;
+    font-size: 18px;
+    font-weight: bold;
+    color : white;
+    height : 35px;
+    width : 87px;
+    cursor : pointer;
+    border : none;
+    border-radius : 10px;
+    transition : background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color : #33b02a;
+    color : #e6e6e6;
+}
+
+button:active {
+    transform : scale(0.92);
+}
+
+#favoriteDiv {
+    padding-top : 30px;
+}
+
+#favoriteTitle {
+    font-size : 1.5rem;
+    font-weight : 448;
+}
+
+#favoriteList > li {
+    font-size : 1.2rem;
+    list-style-type : circle;
+}
