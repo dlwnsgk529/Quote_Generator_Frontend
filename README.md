@@ -4,7 +4,8 @@
 // 메인 사진
 
 ## 📌 프로젝트 소개
-HTML, CSS, JavaScript를 이용하여 유명한 명언 생성 웹사이트 구현한 프로젝트. Open API를 활용해 데이터를 불러오고, JavaScript를 활용해 비동기 처리 및 LocalStorage 활용 연습을 목적으로 둔 프로젝트. 
+HTML, CSS, JavaScript를 이용하여 유명한 명언 생성 웹사이트 구현한 프로젝트.<br>
+Open API에서 데이터를 불러오고, JavaScript를 활용해 비동기 처리 및 LocalStorage 활용 연습을 목적으로 둔 프로젝트. 
 <br>
 <br>
 
@@ -18,9 +19,9 @@ HTML, CSS, JavaScript를 이용하여 유명한 명언 생성 웹사이트 구�
 ## ✨ 주요 기능
 - 외부 Open API를 이용한 명언 데이터 호출
   - 데이터 불러올 때 비동기 처리
-- 불러오기 성공, 로딩 중, API 실패 등 상황 별 UI 표시 및 버튼 비활성화 기능 구현
+- 불러오기 성공 / 로딩 중 / API 실패 등 상황 별 UI 표시 및 버튼 비활성화 기능 구현
 - LocalStorage를 활용한 즐겨찾기 기능
-  -중복 즐겨찾기 방지 기능 추가
+  - 즐겨찾기 중복 방지 기능 추가
 <br>
 
 // 상황별 사진들
@@ -38,7 +39,7 @@ HTML, CSS, JavaScript를 이용하여 유명한 명언 생성 웹사이트 구�
 
 ## 🎯 학습 목적
 - JavaScript를 활용한 DOM 조작 및 이벤트 처리 연습
-- fetch()와 async / await를 이용한 비동기 데이터 처리 학습
+- fetch()와 async / await을 이용한 비동기 데이터 처리 학습
 - API 요청 과정 중 발생 가능한 로딩 상태와 에러 상황 연습
 - LocalStorage를 활용한 데이터 저장 연습
 <br>
