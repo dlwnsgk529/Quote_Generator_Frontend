@@ -1,7 +1,9 @@
 # Quote_Generator_Frontend
 <br>
 
-// 메인 사진
+<p align="center">
+  <img width="492" height="916" alt="image" src="https://github.com/user-attachments/assets/e2939a26-383c-42b6-b06d-147dd2d6d48c" />
+</p>
 
 ## 📌 프로젝트 소개
 HTML, CSS, JavaScript를 이용하여 유명한 명언 생성 웹사이트 구현한 프로젝트.<br>
@@ -24,7 +26,28 @@ Open API에서 데이터를 불러오고, JavaScript를 활용해 비동기 처�
   - 즐겨찾기 중복 방지 기능 추가
 <br>
 
-// 상황별 사진들
+## 🔍 상황 별 실행 화면
+### 로딩 상태
+<p align="left">
+  <img width="492" height="916" alt="image" src="https://github.com/user-attachments/assets/08dccbff-2f2e-4d3d-87ac-1f32e9aedbe6"/>
+</p>
+
+### 에러 발생
+<p align="left">
+  <img width="492" height="916" alt="image" src="https://github.com/user-attachments/assets/f060fe71-9d5a-4592-8f0f-f3c5b3b85d95"/>
+</p>
+
+### 즐겨찾기 / 즐겨찾기 중복
+<p align="left">
+  <img width="492" height="916" alt="image" src="https://github.com/user-attachments/assets/286c3df2-dd4c-4699-b9e7-d862649809a2"/>
+  <img width="397" height="916" alt="image" src="https://github.com/user-attachments/assets/7b91cf9a-d115-47a4-8ab0-5cf5bc5587e0"/>
+
+
+
+</p>
+
+
+
 
 ## 📂 JavaScript 구현 내용
 - 비동기 흐름 제어
